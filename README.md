@@ -44,5 +44,13 @@ All models are available under FIXME license.
 You can cite our work as follows:
 
 ```bib
-FIXME
+@misc{smădu2024investigatinglargelanguagemodels,
+      title={Investigating Large Language Models for Complex Word Identification in Multilingual and Multidomain Setups}, 
+      author={Răzvan-Alexandru Smădu and David-Gabriel Ion and Dumitru-Clementin Cercel and Florin Pop and Mihaela-Claudia Cercel},
+      year={2024},
+      eprint={2411.01706},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2411.01706}, 
+}
 ```
