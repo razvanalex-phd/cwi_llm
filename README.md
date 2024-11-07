@@ -27,12 +27,12 @@ This repository contains the list of fine-tuned models used for "Investigating L
 | Llama-3-8b-chat | CWI Shared 2018 DE | [unstpb-nlp/llama-3-8b-ft-cwi-2018-de](https://huggingface.co/unstpb-nlp/llama-3-8b-ft-cwi-2018-de)  |
 | Llama-3-8b-chat | CompLex LCP 2021   | [unstpb-nlp/llama-3-8b-ft-CompLex-2021](https://huggingface.co/unstpb-nlp/llama-3-8b-ft-CompLex-2021)  |
 
-## Meta-Learning Models
+## 📚 Meta-Learning Models
 
 > [!NOTE]
 > Will be added soon.
 
-## Datasets for Fine-Tuning ChanGPT 
+## 🤖 Datasets for Fine-Tuning ChatGPT 
 
 These are extracts from [CWI 2018](https://sites.google.com/view/cwisharedtask2018/home) and [LCP 2021](https://sites.google.com/view/lcpsharedtask2021/home) datasets used during fine-tuning ChanGPT-3.5-turbo.
 
