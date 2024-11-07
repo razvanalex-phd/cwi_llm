@@ -1,6 +1,6 @@
 # Investigating Large Language Models for Complex Word Identification in Multilingual and Multidomain Setups
 
-This repository contains the list of fine-tuned models used for "Investigating Large Language Models for Complex Word Identification in Multilingual and Multidomain Setups" accepted at EMNLP 2024 main conference.
+This repository contains the list of fine-tuned models used for "Investigating Large Language Models for Complex Word Identification in Multilingual and Multidomain Setups" accepted at EMNLP 2024 main conference. The public fine-tuned LLama-2-based models can be found on [HuggingFace](https://huggingface.co/collections/unstpb-nlp/llms-for-complex-word-identification-6723dbc8ccb533a2eddd890a).
 
 ## 🚀 Fine-Tuned Models
 
