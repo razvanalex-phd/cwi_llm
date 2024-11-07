@@ -29,7 +29,7 @@ This repository contains the list of fine-tuned models used for "Investigating L
 
 ## Meta-Learning Models
 
-> [!INFO]
+> [!NOTE]
 > Will be added soon.
 
 ## Datasets for Fine-Tuning ChanGPT 
