@@ -9,7 +9,7 @@ This repository contains the list of fine-tuned models used for "Investigating L
 | Llama-2-7b-chat | CWI Shared 2018 EN | [unstpb-nlp/llama-2-7b-ft-cwi-2018-en](https://huggingface.co/unstpb-nlp/llama-2-7b-ft-cwi-2018-en)  |
 | Llama-2-7b-chat | CWI Shared 2018 ES | [unstpb-nlp/llama-2-7b-ft-cwi-2018-es](https://huggingface.co/unstpb-nlp/llama-2-7b-ft-cwi-2018-es)  |
 | LLama-2-7b-chat | CWI Shared 2018 DE | [unstpb-nlp/llama-2-7b-ft-cwi-2018-de](https://huggingface.co/unstpb-nlp/llama-2-7b-ft-cwi-2018-de)  |
-| llama-2-7b-chat | CompLex LCP 2021   | [unstpb-nlp/llama-2-7b-ft-CompLex-2021](https://huggingface.co/unstpb-nlp/llama-2-7b-ft-CompLex-2021)  |
+| Llama-2-7b-chat | CompLex LCP 2021   | [unstpb-nlp/llama-2-7b-ft-CompLex-2021](https://huggingface.co/unstpb-nlp/llama-2-7b-ft-CompLex-2021)  |
 | Llama-2-13b-chat | CWI Shared 2018 EN | [unstpb-nlp/llama-2-13b-ft-cwi-2018-en](https://huggingface.co/unstpb-nlp/llama-2-13b-ft-cwi-2018-en)  |
 | Llama-2-13b-chat | CWI Shared 2018 ES | [unstpb-nlp/llama-2-13b-ft-cwi-2018-es](https://huggingface.co/unstpb-nlp/llama-2-13b-ft-cwi-2018-es)  |
 | Llama-2-13b-chat | CWI Shared 2018 DE | [unstpb-nlp/llama-2-13b-ft-cwi-2018-de](https://huggingface.co/unstpb-nlp/llama-2-13b-ft-cwi-2018-de)  |
