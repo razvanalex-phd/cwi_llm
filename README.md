@@ -27,17 +27,20 @@ This repository contains the list of fine-tuned models used for "Investigating L
 | Llama-3-8b-chat | CWI Shared 2018 DE | [unstpb-nlp/llama-3-8b-ft-cwi-2018-de](https://huggingface.co/unstpb-nlp/llama-3-8b-ft-cwi-2018-de)  |
 | Llama-3-8b-chat | CompLex LCP 2021   | [unstpb-nlp/llama-3-8b-ft-CompLex-2021](https://huggingface.co/unstpb-nlp/llama-3-8b-ft-CompLex-2021)  |
 
-| Base model | Dataset | HuggingFace URL |
-|------------|---------|-----------------|
-| ChatGPT-3.5-turbo | CWI Shared 2018 EN | |
-| ChatGPT-3.5-turbo | CWI Shared 2018 ES | |
-| ChatGPT-3.5-turbo | CWI Shared 2018 DE | |
-| ChatGPT-3.5-turbo | CompLex LCP 2021   | |
+## Datasets for Fine-Tuning ChanGPT 
+
+These are extracts from [CWI 2018](https://sites.google.com/view/cwisharedtask2018/home) and [LCP 2021](https://sites.google.com/view/lcpsharedtask2021/home) datasets used during fine-tuning ChanGPT-3.5-turbo.
+
+| Base model | Dataset | Training Data | Validation Data | Trained tokens | Epochs | Batch size | LR multiplier |
+|------------|---------|---------------|-----------------|----------------|--------|------------|---------------|
+| gpt-3.5-turbo-1106 | CWI Shared 2018 EN | [`./chatgpt_data/cwi_en_trainset_small_balanced_260.jsonl`] | [`./chatgpt_data/cwi_en_testset_90_balanced.jsonl`] | 163,749 | 3 | 1 | 2 |
+| gpt-3.5-turbo-1106 | CWI Shared 2018 ES | [`./chatgpt_data/cwi_es_trainset_250_balanced.jsonl`] | [`./chatgpt_data/cwi_es_testset_250_balanced.jsonl`] | 224,784 | 3 | 1 | 2 |
+| gpt-3.5-turbo-1106 | CWI Shared 2018 DE | [`./chatgpt_data/cwi_de_trainset_250_balanced.jsonl`] | [`./chatgpt_data/cwi_de_testset_200_balanced.jsonl`] | 218,364 | 3 | 1 | 2 |
+| gpt-3.5-turbo-1106 | CompLex LCP 2021   | [`./chatgpt_data/lcp_trainset_250_balanced.jsonl`] | [`./chatgpt_data/lcp_testset_200_balanced.jsonl`] | 185,613 | 3 | 1 | 2 |
 
 ## ⚖️ License
 
 Llama 2-based models are available under the [Llama 2 Community License](https://ai.meta.com/llama/license/).
-All models are available under FIXME license.
 
 ## 📖 Citation
 
