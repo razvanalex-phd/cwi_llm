@@ -33,10 +33,10 @@ These are extracts from [CWI 2018](https://sites.google.com/view/cwisharedtask20
 
 | Base model | Dataset | Training Data | Validation Data | Trained tokens | Epochs | Batch size | LR multiplier |
 |------------|---------|---------------|-----------------|----------------|--------|------------|---------------|
-| gpt-3.5-turbo-1106 | CWI Shared 2018 EN | [`./chatgpt_data/cwi_en_trainset_small_balanced_260.jsonl`] | [`./chatgpt_data/cwi_en_testset_90_balanced.jsonl`] | 163,749 | 3 | 1 | 2 |
-| gpt-3.5-turbo-1106 | CWI Shared 2018 ES | [`./chatgpt_data/cwi_es_trainset_250_balanced.jsonl`] | [`./chatgpt_data/cwi_es_testset_250_balanced.jsonl`] | 224,784 | 3 | 1 | 2 |
-| gpt-3.5-turbo-1106 | CWI Shared 2018 DE | [`./chatgpt_data/cwi_de_trainset_250_balanced.jsonl`] | [`./chatgpt_data/cwi_de_testset_200_balanced.jsonl`] | 218,364 | 3 | 1 | 2 |
-| gpt-3.5-turbo-1106 | CompLex LCP 2021   | [`./chatgpt_data/lcp_trainset_250_balanced.jsonl`] | [`./chatgpt_data/lcp_testset_200_balanced.jsonl`] | 185,613 | 3 | 1 | 2 |
+| gpt-3.5-turbo-1106 | CWI Shared 2018 EN | [`train set`](./chatgpt_data/cwi_en_trainset_small_balanced_260.jsonl) | [`validation set`](./chatgpt_data/cwi_en_testset_90_balanced.jsonl) | 163,749 | 3 | 1 | 2 |
+| gpt-3.5-turbo-1106 | CWI Shared 2018 ES | [`train set`](./chatgpt_data/cwi_es_trainset_250_balanced.jsonl) | [`validation set`](./chatgpt_data/cwi_es_testset_250_balanced.jsonl) | 224,784 | 3 | 1 | 2 |
+| gpt-3.5-turbo-1106 | CWI Shared 2018 DE | [`train set`](./chatgpt_data/cwi_de_trainset_250_balanced.jsonl) | [`validation set`](./chatgpt_data/cwi_de_testset_200_balanced.jsonl) | 218,364 | 3 | 1 | 2 |
+| gpt-3.5-turbo-1106 | CompLex LCP 2021   | [`train set`](./chatgpt_data/lcp_trainset_250_balanced.jsonl) | [`validation set`](./chatgpt_data/lcp_testset_200_balanced.jsonl) | 185,613 | 3 | 1 | 2 |
 
 ## ⚖️ License
 
